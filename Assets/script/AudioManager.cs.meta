@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5f07ed98266204924a6b4a0f788abfc2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bgmAudioSource: {instanceID: 0}
+  - sfxBumperAudioSource: {fileID: 7503261370777839366, guid: 6fa94a6c4f4bb438faa730c6facdf997, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
